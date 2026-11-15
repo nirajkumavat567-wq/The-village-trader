@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="obsidian_bg">#FF090E17</color>
+    <color name="obsidian_surface">#FF111927</color>
+    <color name="emerald_bull">#FF00D084</color>
+    <color name="crimson_bear">#FFFF4D6A</color>
+    <color name="village_gold">#FFF5B749</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">The Village Traders</string>
+    <string name="brand_subtitle">Demo Terminal • Live Delta Exchange</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_trade">Trade</string>
+    <string name="nav_performance">Summary</string>
+    <string name="nav_center">Center</string>
+    <string name="action_support">Support</string>
+    <string name="welcome_title">Welcome to The Village Traders</string>
+    <string name="welcome_sender">From Niraj The Trader</string>
+    <string name="welcome_message_body">Namaste Trader! Welcome to The Village Traders family. I have credited your demo account with $500.00 USD virtual capital connected to live Delta Exchange markets. Practice smart risk management, analyze every trade in your performance summary, and message me anytime on Telegram if you need guidance or support.</string>
+    <string name="welcome_cta">Start Trading ($500 Demo)</string>
+    <string name="telegram_dm_title">Direct Message Niraj on Telegram</string>
+    <string name="telegram_dm_subtitle">Questions about charts, risk management, or live setups? Send a direct message to Niraj The Trader.</string>
+    <string name="telegram_dm_button">Message on Telegram</string>
+    <string name="support_desk_title">Trader Support Desk</string>
+    <string name="reset_account_title">Reset $500 Demo Account</string>
+    <string name="reset_account_confirm">This will close all open demo positions, clear your trade history, and restore your demo fund to $500.00 USD.</string>
+</resources>

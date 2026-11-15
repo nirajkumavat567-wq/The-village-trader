@@ -1,0 +1,6 @@
+{
+  "name": "The Village Traders",
+  "description": "Demo trading account connected to live Delta Exchange market data with $500 virtual funds, P&L charts, trade performance summaries, and Telegram support by Niraj the Trader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
